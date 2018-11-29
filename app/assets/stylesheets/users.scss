@@ -1,3 +1,14 @@
 // Place all the styles related to the users controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.subject_label {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100;
+  background-color: #a0edff;
+  padding: 4px 1px 0px 1px;
+  border-radius: 5px;
+}
